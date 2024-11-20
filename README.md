@@ -1,5 +1,7 @@
 # i3D-SLAM
- Real-time SLAM software (Releasing soon)
+Beta version![Alt Text](https://github.com/gayanbrahmanage/i3DSLAM_beta)
+
+Real-time SLAM software full version  (Releasing soon)
 
 ## Settings
 * Predicted depth monocular SLAM
