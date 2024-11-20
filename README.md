@@ -1,5 +1,5 @@
 # i3D-SLAM
-Beta version![Alt Text](https://github.com/gayanbrahmanage/i3DSLAM_beta)
+Beta version! [ i3D-SLAM-beta] (https://github.com/gayanbrahmanage/i3DSLAM_beta)
 
 Real-time SLAM software full version  (Releasing soon)
 
